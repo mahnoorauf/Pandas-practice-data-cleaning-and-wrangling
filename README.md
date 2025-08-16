@@ -2,7 +2,7 @@
 
 The goal of this repo is to build a strong foundation in pandas for real-world data science projects.
 
-## 📂 Contents
+## Contents
 - **DataFrames and Series** – creating and exploring tabular data  
 - **Indexing & Selection** – accessing rows, columns, and subsets  
 - **Data Cleaning** – handling missing values, duplicates, and datatypes  
@@ -11,7 +11,7 @@ The goal of this repo is to build a strong foundation in pandas for real-world d
 - **Visualization** – simple plots using pandas built-in methods  
 
 
-## 🎯 Goal
+## Goal
 To get hands-on practice with pandas and learn how to:
 - Clean messy datasets
 - Perform exploratory data analysis (EDA)
@@ -19,7 +19,7 @@ To get hands-on practice with pandas and learn how to:
 - Prepare data for machine learning tasks
 
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - Python 
 - Pandas  
 - Jupyter Notebook  
@@ -27,7 +27,7 @@ To get hands-on practice with pandas and learn how to:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/intro-to-pandas.git
